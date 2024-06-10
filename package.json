@@ -1,0 +1,17 @@
+{
+  "name": "rockpaperscissors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"sass --watch src/styles/*.scss public/styles.css",
+    "start":""
+  },
+  "keywords": [],
+  "author": "Pradipkumar Hinge",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.77.4"
+  }
+}
